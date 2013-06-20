@@ -68,7 +68,7 @@ html_string = html_string.replace('transition: left', 'transition: right', 10)
 
 html_string = html_string.replace('</section>', """
 <footer style="border:0; padding:0px;background-color: #99D6EB;">
-<p style="text-align: center; border:0; padding:0px; background-color: #99D6EB;"><img height="15%" border="0" padding="0" src="./NIST_logo_transparent.png"></p>
+<p style="text-align: center; border:0; padding:0px; background-color: #99D6EB;"><img height="15%" border="0" padding="0" src="http://www.ctcms.nist.gov/~wd15/jekyll_images/intel_images/NIST_logo_transparent.png"></p>
 </footer>
 </section>""", 1)
 

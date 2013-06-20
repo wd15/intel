@@ -4,7 +4,7 @@
 
 ## Super Fill
 
-<p style="text-align: center; border:0; padding:0px;"><img height="70%" border="0" padding="0" src="./fig7.jpg"></p>
+<p style="text-align: center; border:0; padding:0px;"><img height="70%" border="0" padding="0" src="http://www.ctcms.nist.gov/~wd15/jekyll_images/intel_images/fig7.jpg"></p>
 
 <p style="position:absolute; top:300px; right:95px; font-size: 25pt;">$\dot{\theta} = \kappa v \theta$</p>
 
@@ -12,7 +12,7 @@
 
 ## Extreme Fill
 
-<p style="text-align: center; border:0; padding:0px;"><img height="40%" border="0" padding="0" src="./extremefill_transparent.png"></p>
+<p style="text-align: center; border:0; padding:0px;"><img height="40%" border="0" padding="0" src="http://www.ctcms.nist.gov/~wd15/jekyll_images/intel_images/extremefill_transparent.png"></p>
 
 <p style="text-align:center; font-size: 25pt;">$v = v_0 \left(1 - \theta \right)$</p>
 
@@ -31,7 +31,7 @@ Steady solutions: $\theta=1$ and $\theta = \frac{ k^+ c_{ \theta } } { k^- v_0 }
 
 ## Extreme Fill 1D
 
-<p style="text-align: center; border:0; padding:0px;"><img height="70%" border="0" padding="0" src="./kPlusVkMinus.png"></p>
+<p style="text-align: center; border:0; padding:0px;"><img height="70%" border="0" padding="0" src="http://www.ctcms.nist.gov/~wd15/jekyll_images/intel_images/kPlusVkMinus.png"></p>
 
 ## Extreme Fill 2D
 
