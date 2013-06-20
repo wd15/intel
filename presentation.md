@@ -41,8 +41,10 @@ Steady solutions: $\theta=1$ and $\theta = \frac{ k^+ c_{ \theta } } { k^- v_0 }
 
 - Research blog: [https://wd15.github.io](https://wd15.github.io)
 
-- Extreme fill 1D: [https://wd15.github.io/extremefill](https://wd15.github.io/extremefill)
+- Extreme fill 1D: [https://wd15.github.io/extremefill](https://github.com/wd15/extremefill)
 
 - Extreme fill 2D: [https://github.com/wd15/extremefill2D](https://github.com/wd15/extremefill2D)
- 
+
+- Slides: [https://wd15.github.io/2013/06/20/intel](https://wd15.github.io/2013/06/20/intel)
+
 
